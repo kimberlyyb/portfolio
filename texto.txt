@@ -1,0 +1,60 @@
+CORES: #D9C1D7 LILAS
+#210F26 ROXO
+#86728C LILAS UM POUCO ESCURO
+#D9B9A7 BEGE
+#0D0D0D PRETO
+
+
+
+
+Olá seja bem vindo(a) ao meu portfólio! Eu me chamo Kimberly Barros!! 
+Este espaço é uma vitrine das minhas habilidades, paixões e ambições. Embora ainda não tenha experiência no mercado de trabalho, trago comigo conhecimentos adquiridos por meio de estudos, projetos pessoais e experiências de vida. Estou comprometida em transformar essa base sólida em resultados e contribuições significativas em qualquer ambiente que eu esteja inserida.
+       
+Formação Acadêmica
+Ensino Médio - Completo 
+Escola Estadual Anhanguera
+Ensino superior - Cursando Sistemas de informação. 3ºSemestre - Faculdade Das Américas(FAM)
+        
+
+Certificações
+Informática  Unova cursos - Concluído.
+            
+Dialogação dos Saberes e Profissionalmente  Associação Quality de Educação, Cultura e Desenvolvimento Social - Concluído
+           
+Mini Curso SQL <br> Hashtag Treinamentos - Concluído.
+    
+Contatos
+Github: kimberlyyb
+Telefone: (11)9618-4136
+E-mail: kimberlyybarros@gmail.com
+
+Competências e Habilidades
+Através deste portfólio, busco demonstrar meu potencial e comprometimento em aprender e crescer na área de desenvolvimento web, como ainda não tive a oportunidade de trabalhar profissionalmente nesta área, estou dedicando tempo e esforço para criar este espaço com o objetivo claro de buscar minha primeira experiência como desenvolvedora. 
+          
+Eu possuo habilidades essenciais que me permitem facilitar a resolução de conflitos e promover um ambiente colaborativo e harmonioso. Minha capacidade de ouvir atentamente e compreender os diferentes pontos de vista das partes envolvidas é fundamental para identificar as necessidades e interesses subjacentes em uma situação conflituosa.
+          
+Habilidades Interpessoais
+Ajudante, Otimista, Precavida, Analítica
+              
+Qualificações
+Conhecimento intermediário no Pacote Office.
+Word, PowerPoint, Excel
+Nível intermediário de proficiência em inglês.
+UML (Linguagem de Modelagem Unificada).
+Ánalise de projetos e sistemas
+Sou capaz de compreender requisitos, identificar padrões relevantes e propor soluções eficazes que atendam às necessidades específicas de cada projeto. Além disso,domino a criação de diagramas que representam de forma clara e precisa tanto a estrutura
+quanto o comportamento dos sistemas. Essas habilidades me permitem abordar problemas de maneira estruturada, garantindo uma análise detalhada e a proposição de soluções que agregam valor aos projetos em que estou envolvida.
+                    
+Estruturação de banco de dados
+Quanto à estruturação de bancos de dados, estou familiarizada com o modelo de entidade de relacionamento tanto no aspecto conceitual quanto relacional. Compreendo os fundamentos da modelagem de dados e sou capaz de projetar esquemas de banco de dados. Isso inclui a definição de tabelas, relacionamentos, chaves primárias e estrangeiras, bem como a otimização do desempenho por meio de índices
+
+Projetos
+Aqui, nesta seção do meu portfólio, vou apresentar projetos que desenvolvi ao longo da minha jornada acadêmica na faculdade
+Projeto HOPE: Um ambiente para adotar o amor.
+Eu e meu grupo estamos desenvolvendo um aplicativo. Atualmente, concluímos a implementação do protótipo (FIGMA) e do banco de dados(SQLserver). Agora, estamos concentrados no desenvolvimento do funcionamento do sistema, utilizando diagramas para guiar o processo.
+
+Descrição do projeto;
+O HOPE ajuda as ONGs com o objetivo de diminuir a quantidade de animais nas ruas, e ajuda todos que possuem o desejo de adotar ou doar um pet trazendo junto a conscientização das pessoas em realizar a adoção responsável. Como centralizar a comunicação e divulgação de Pets entre ONG e adotante, contado com o Chat em tempo real, e uma área para compartilhar os animais que estão à procura de um lar responsável. Também, o usuário da ONG poderá gerar relatórios para controle de gastos, adoções e doações com a funcionalidade do Dashboard. Caso a ONG necessite ampliar sua rede de colaboradores, ela poderá anunciar atividades que precisem de voluntariados. E para completar, poderá divulgar eventos para conscientizar, arrecadar fundos, resgatar animais e defender direitos e bem-estar dos animais. Para os usuários que desejam divulgar um animal de estimação resgatado, eles têm à disposição uma área de divulgação onde podem entrar em contato com possíveis adotantes em tempo real através de um chat. Já para aqueles que têm interesse em se voluntariar, eles podem visualizar as postagens da ONG e, assim, se candidatar.
+link projeto
+https://linktr.ee/hopefam">Projeto Completo
+                
